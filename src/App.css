@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+
+.flex-container {
+  scrollbar-width: thin; /* Set the width of the scrollbar */
+  scrollbar-color: #d5d0d0 #f9f9f9; /* Set the color of the scrollbar */
+}
+
+/* Customize the scrollbar track and thumb */
+.flex-container::-webkit-scrollbar {
+  width: 10px; /* Set the width of the scrollbar */
+}
+
+.flex-container::-webkit-scrollbar-thumb {
+  background-color: #f8f3f3; /* Set the color of the scrollbar thumb */
+}
+
+.flex-container::-webkit-scrollbar-track {
+  background-color: #000000; /* Set the color of the scrollbar track */
+}
+
+/* Add styles for the scroll buttons */
+.scroll-button {
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  border: none;
+  background-color: #f9f9f9;
+  color: #333;
+  cursor: pointer;
+}
+
+/* Add custom styles for the left and right buttons */
+.left-button {
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.right-button {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
