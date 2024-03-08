@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/list-scrollbar-web-app/static/css/main.45eb5c0c.css",
+    "main.js": "/list-scrollbar-web-app/static/js/main.a3b04692.js",
+    "static/js/787.e0ab26e5.chunk.js": "/list-scrollbar-web-app/static/js/787.e0ab26e5.chunk.js",
+    "index.html": "/list-scrollbar-web-app/index.html",
+    "main.45eb5c0c.css.map": "/list-scrollbar-web-app/static/css/main.45eb5c0c.css.map",
+    "main.a3b04692.js.map": "/list-scrollbar-web-app/static/js/main.a3b04692.js.map",
+    "787.e0ab26e5.chunk.js.map": "/list-scrollbar-web-app/static/js/787.e0ab26e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45eb5c0c.css",
+    "static/js/main.a3b04692.js"
+  ]
+}
